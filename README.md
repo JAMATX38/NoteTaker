@@ -83,7 +83,7 @@ This homework is graded based on the following criteria:
 
 ### Bonus: +10 Points
 
-* Application allows users to delete notes.
+* Application allows users to delete notes. ALMOST GOT THIS
 
 ## Technologies Used
 
@@ -102,7 +102,7 @@ Need to NPM INSTALL JSON file
 
 node server.js to start app
 
-I was able to get the delet function to work
+
 
 ```
 
@@ -110,7 +110,7 @@ I was able to get the delet function to work
 
 GitHub  -  https://github.com/JAMATX38/NoteTaker.git
 
-Heroku  -   
+Heroku  -   https://notetakerapp-jaime.herokuapp.com/
 
 ## Author
 
